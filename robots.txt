@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://digimarkatagency.github.io/sitemap.xml
